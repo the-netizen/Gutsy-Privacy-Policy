@@ -4,21 +4,6 @@
 
 > Gutsy is built with privacy in mind. Your meal data never leaves your device. Only meal photos are temporarily processed by AI to detect plant ingredients.
 
----
-
-<details>
-<summary><strong>📋 Contents</strong></summary>
-
-- [Information we collect](#information-we-collect)
-- [Third party services](#third-party-services)
-- [How we use your information](#how-we-use-your-information)
-- [Children's privacy](#childrens-privacy)
-- [Changes to this policy](#changes-to-this-policy)
-- [Contact](#contact)
-
-</details>
-
----
 
 ## Information we collect
 

@@ -51,7 +51,8 @@ We may update this policy as the app evolves. Continued use of the app after cha
 
 ## Support and Contact
 
-If you have any questions or feedback, reach out at **naimaa02@icloud.com**
+If you have any questions or feedback, reach out at [naimaa02@icloud.com](mailto:naimaa02@icloud.com)
+
 
 ---
 
